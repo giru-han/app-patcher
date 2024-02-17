@@ -1,5 +1,5 @@
 
-# App English Patcher
+# Developing a Python-based GUI Application Patcher with Object-Oriented Programming (OOP)
 This is a Python-based graphical user interface (GUI) tool designed to assist users in applying File patches to an application. The patcher allows users to automatically apply files to the local application's installed directory. Additionally, it provides options for choosing configurations like fonts, and 64-bit options.
 
 ## Important Note
