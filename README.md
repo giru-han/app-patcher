@@ -3,7 +3,7 @@
 This is a Python-based graphical user interface (GUI) tool designed to assist users in applying File patches to an application. The patcher allows users to automatically apply files to the local application's installed directory. Additionally, it provides options for choosing configurations like fonts, and 64-bit options.
 
 ## Important Note
-This repository has been simplified and generalized from its original production code. It excludes specific application names and is intended solely for displaying code functionality and GUI features. Please note that it does not serve the actual patching purpose that was present in the production code
+This repository has been simplified and generalized from its original production code. It excludes specific application names and is intended solely for displaying Python OOP functionality and GUI features. Please note that it does not serve the actual patching purpose that was present in the production code.
 
 ## User Features
 Browse and select the target directory for patching.
