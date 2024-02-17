@@ -20,7 +20,6 @@ The patcher creates a backup of the original files overwritten during the patchi
 If the user encounters any issues simply revert to the original state using the files.
 *It's recommended to review the backup files and understand their contents before making any manual changes.
 
-
 ## User Instructions
 1. Ensure the application client is updated and working correctly.
 2. Close all application clients before applying the patch.
